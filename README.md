@@ -1,4 +1,4 @@
-## HR-analytics-dashboard
+## HR_Analytics_Dashboard
 This repository contains my Power BI dashboard providing insights into employee attrition, workforce distribution, department performance, and key HR metrics.
 
 ## Project overview 
